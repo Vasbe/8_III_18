@@ -1,4 +1,5 @@
-﻿using System;
+//Ошибка: Вывод 2 слов подряд
+using System;
 using System.Collections.Generic;
 namespace _8_III_18
 {
